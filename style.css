@@ -581,7 +581,8 @@ main .btn-send:hover {
 /*table*/
 
 .table-wrapper{
-	height: 900px;
+	
+	height: 820px;
 	overflow: auto;
 	position: relative;
 }
